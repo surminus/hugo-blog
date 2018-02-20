@@ -1,7 +1,6 @@
 ---
 title: "foo"
 date: 2018-02-20T08:10:27Z
-draft: true
 ---
 
 A place to blog.

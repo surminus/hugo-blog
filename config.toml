@@ -1,12 +1,10 @@
-baseURL = "http://blog.surminus.co.uk"
+baseURL = "/"
 languageCode = "en-us"
 title = "surminus"
 theme = "code-editor"
-markup = "md"
+
 
 [params]
     author = "Laura Martin"
     locale = "en-US"
-    # rootlink = "/"
-    # rootlink specifies where Root in menu.html links to. If it's not set then baseurl will be used.
     TwitterUser = "surminus"
