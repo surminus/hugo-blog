@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:surminus/surminus.github.io.git
 	branch = master
+[submodule "themes/startbootstrap-clean-blog"]
+	path = themes/startbootstrap-clean-blog
+	url = https://github.com/humboldtux/startbootstrap-clean-blog.git
