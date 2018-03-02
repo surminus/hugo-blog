@@ -1,6 +1,8 @@
 ---
 title: "My Favourite Tools"
 date: 2018-03-02T17:15:11Z
+categories: [tools]
+tags: [lint, CI, terraform, cli, tooling]
 ---
 
 The market is flooded with great tooling, so I wanted to list a few of my
