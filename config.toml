@@ -5,7 +5,6 @@ paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
 copyright = "Code released under the Apache 2.0 license."
-googleAnalytics = "UA-115038298-1"
 
 [params]
   DateForm = "January 2, 2006"
